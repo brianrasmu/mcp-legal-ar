@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-legal-ar": {
+      "command": "node",
+      "args": ["/Users/brian/mcp-legal-ar/build/index.js"]
+    }
+  }
+}
